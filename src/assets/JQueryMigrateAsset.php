@@ -10,7 +10,7 @@ class JQueryMigrateAsset extends AssetBundle
     public $basePath = null;
 
     public $js = [
-        'https://code.jquery.com/jquery-migrate-3.0.1.min.js',
+        'https://code.jquery.com/jquery-migrate-3.3.2.min.js',
     ];
 
     public $depends = [
